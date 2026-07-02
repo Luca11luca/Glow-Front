@@ -1,7 +1,7 @@
 import { useApp } from "../context/AppContext";
 import { useNavigate } from "react-router-dom";
 import aperol from "../images/aperol.png";
-import fernet from "../images/fernet.png";
+import fernet from "../images/Fernet.png";
 import black from "../images/Black.png";
 import carpano from "../images/Carpano.png";
 import beefeater from "../images/Beefeater.png";

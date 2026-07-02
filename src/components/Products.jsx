@@ -2,7 +2,7 @@ import Card from "./Card";
 import { useApp } from "../context/AppContext";
 import aperol from "../images/aperol.png";
 import cynar from "../images/Cynar.png";
-import fernet from "../images/fernet.png";
+import fernet from "../images/Fernet.png";
 import campari from "../images/Campari.png";
 import cointreau from "../images/Cointreau.png";
 import sernova from "../images/Sernova.png";
